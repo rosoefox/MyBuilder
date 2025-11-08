@@ -10,5 +10,6 @@ UserConfiguration class에 최종 객체(product)를 담았다.
 
 < 실행 화면 >  
 
-<img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/9bd64dbb-8045-4cbb-9a27-f31b947e8c53" />
+<img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/a5ba5e58-8038-4ee6-8306-f80232dba113" />
+
 
